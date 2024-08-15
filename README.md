@@ -4,7 +4,7 @@ SMSHub Connect is an SMS Gateway application for Android devices, developed in K
 The app connects to a server via HTTP to periodically retrieve SMS messages in JSON format that need to be sent. 
 It handles message dispatch, tracks delivery status, and provides notifications for incoming messages.
 
-This project is a modified fork of the original [here](https://github.com/juancrescente/SMSHub/) by Juan Crescente.
+This project is a modified fork of the original [SMSHub](https://github.com/juancrescente/SMSHub/) by Juan Crescente.
 
 ## Key Changes
 
