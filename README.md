@@ -21,12 +21,14 @@ While other SMS gateway projects exist, none that I found at the time of startin
 
 ## Screenshots
 
-<img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/img1.png" width="auto" height="440">
-<img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/img2.png" width="auto" height="440">
+<p align="center">
+  <img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/img1.png" alt="SMSHub Connect screenshot 1" width="45%">
+  <img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/img2.png" alt="SMSHub Connect screenshot 2" width="45%">
+</p>
 
 ## App release :
 
-You can download a compiled .apk file (unsigned) from the beta release [here](https://github.com/juancrescente/SMSHub/releases/download/0.1/app-release.apk)
+You can download a compiled .apk file (unsigned) from the beta release [here](https://github.com/tserumula/smshubconnect/releases/download/v4.0-beta/app-com-ts-smshubconnect_unsigned.apk)
 
 ### App settings
 
