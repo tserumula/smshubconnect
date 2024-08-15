@@ -8,8 +8,8 @@ This project is a modified fork of the original [SMSHub](https://github.com/juan
 
 ## Key Changes
 
-* SMS retrieval and processes are handled as a background service using Alarm manager.
-* The http requests to the server now include health information from the android device such as Battery level and signal radio strength.
+* SMS retrieval process is handled as a background service using Alarm manager.
+* The http requests to the server now include health information about the android device such as Battery level and signal radio strength.
 * Upgraded codebase and Android Gradle Plugin (AGP) dependency from v4.22 to v8.7
 *  Removed location permission and changed the user interface on main-fragment
 
