@@ -1,0 +1,1 @@
+SMS Gateway application for Android devices.

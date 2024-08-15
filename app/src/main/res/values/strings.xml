@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SMSHub Connect</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="default_text">Default text</string>
+    <string name="app_running">App SMS process is running</string>
+    <string name="app_not_running">App SMS process is NOT running</string>
+
+    <string name="app_status">&#8226; SMS Sending : %1$s \n&#8226; Background service : %2$s \n&#8226; Server : %3$s \n&#8226; Connection : %4$s \n%5$s \n</string>
+    <!-- %5$s above is the placeholder for last-connection-date. This is not yet implemented in the app-->
+
+    <integer name="preference_default_interval">1</integer>
+    <bool name="preference_default_send_enabled">false</bool>
+    <string name="preference_default_send_url">http://localhost/send_api.php</string>
+    <string name="preference_default_receive_url">http://localhost/receive_api.php</string>
+    <string name="preference_default_status_url">http://localhost/status_api.php</string>
+    <string name="preference_default_device_id">1</string>
+
+    <string name="preference_file_key">com.ts.smshubconnect.prefs</string>
+    <string name="preference_send_url">com.ts.smshubconnect.prefs.send_url</string>
+    <string name="preference_status_url">com.ts.smshubconnect.prefs.status_url</string>
+    <string name="preference_receive_url">com.ts.smshubconnect.prefs.receive_url</string>
+    <string name="preference_interval">com.ts.smshubconnect.prefs.interval</string>
+    <string name="preference_send_enabled">com.ts.smshubconnect.prefs.send_enabled</string>
+    <string name="preference_device_id">com.ts.smshubconnect.prefs.device_id</string>
+</resources>
